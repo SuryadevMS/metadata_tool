@@ -1,0 +1,10 @@
+ResolutionUnit: 2
+ExifOffset: 146
+Software: GIMP 2.4.5
+Orientation: 1
+DateTime: 2008:07:31 10:05:49
+XResolution: 300.0
+YResolution: 300.0
+ColorSpace: 1
+ExifImageWidth: 100
+ExifImageHeight: 77
